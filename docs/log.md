@@ -11,3 +11,7 @@
 - File: seu_baseline_esp32.txt saved to device flash and pulled to repo
 - BLOCKED: Pi 4 not booting (ssh over usb issue to fix)
 - NEXT: Run higher flip rates to find degradation knee; fix Pi or order 2nd ESP32 for lockstep
+
+### 5/16
+- Reup the project interest, Now using the daniel hirsch method. I am going to work on this project for a while so using his primary source programming approach to learn this stuff. 
+- created readme and list of resources and checkpoints for the project.
